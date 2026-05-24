@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Shells"
+						}
+					}
+				]
+			},
+			"pricing_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Eiusmod aliqua duis velit dolore dolor labore irure Lorem amet cillum nisi nisi adipisicing proident. Deserunt non eiusmod magna occaecat nulla enim sint veniam eu adipisicing ad proident mollit proident."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
